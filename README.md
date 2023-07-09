@@ -1,4 +1,4 @@
-![MasterHead](https://www.emizentech.com/blog/wp-content/uploads/sites/2/2021/09/Mobile-App-Developer-Skills-Best-Skillset-for-Developing-An-App-1.jpg)
+![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)
 <h1 align="center">Hi 👋, I'm Devaraj Sekar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
