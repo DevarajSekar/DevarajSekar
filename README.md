@@ -1,6 +1,6 @@
 ![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)
 <h1 align="center">Hi, I'm Devaraj Sekar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I'm a C# programmer, frontend developer and a tech enthusiast!</h3>
 
 <img align="right" alt="Coding" Width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952b72yoy4nvynh8l9wwsgif45n0uhq28px0ggycd59&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" >
 
