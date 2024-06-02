@@ -1,4 +1,4 @@
-![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)
+![MasterHead](https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/2024/2024-03/tb-1200x303-blog-cover-ritm0237191.png?sfvrsn=2fb22b1a_4)
 <h1 align="center">Hi, I'm Devaraj Sekar</h1>
 <h3 align="center">I'm a C# programmer, frontend developer and a tech enthusiast!</h3>
 
