@@ -1,4 +1,4 @@
-![MasterHead](https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/2024/2024-03/tb-1200x303-blog-cover-ritm0237191.png?sfvrsn=2fb22b1a_4)
+![MasterHead](https://i0.wp.com/netmaxims.com/blog/wp-content/uploads/2022/04/Cross-Platform-App-development-illustration.png?w=1920&ssl=1)
 <h1 align="center">Hi, I'm Devaraj Sekar</h1>
 <h3 align="center">I'm a C# programmer, frontend developer and a tech enthusiast!</h3>
 
